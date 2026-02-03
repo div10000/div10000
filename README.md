@@ -1,4 +1,4 @@
-# Hare Krishna 🙇🏻
+# 🙇🏻 Hare Krishna, It's Divyansh Pandey
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&width=700&lines=Software+Developer+%7C+DevOps+Enthusiast;Building+Reliable+and+Scalable+Applications;Learning+Cloud+and+Modern+DevOps)
 
