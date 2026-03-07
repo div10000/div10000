@@ -48,8 +48,8 @@ Actively developing skills in **cloud infrastructure** and **modern DevOps pract
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=div10000&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=div10000&layout=compact&theme=tokyonight)
+![GitHub Stats](https://githubreadmestats-livid-three.vercel.app/api?username=div10000&show_icons=true&theme=tokyonight)
+![Top Languages](https://githubreadmestats-livid-three.vercel.app/api/top-langs/?username=div10000&layout=compact&theme=tokyonight)
 
 ---
 
