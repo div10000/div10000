@@ -67,7 +67,7 @@ Currently focused on crafting robust applications and integrating **AI/LLM featu
 
 ## Contributions
 
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/div10000/div10000/output/3d-contrib.svg?v=3d1"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/div10000/div10000/output/3d-contrib-light.svg?v=3d1"> <img alt="3D GitHub contribution graph" src="https://raw.githubusercontent.com/div10000/div10000/output/3d-contrib.svg?v=3d1"> </picture> <br/> <sub>✨ My coding activity visualized in 3D - all contributions preserved</sub> </div>
+
 
 
 
