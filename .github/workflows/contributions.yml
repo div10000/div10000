@@ -1,0 +1,33 @@
+name: Generate 3D Contributions
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: generate 3d-contrib
+        uses: Platane/snk@v3
+        with:
+          github_user_name: div10000
+          outputs: |
+            dist/github-3d-metrics.svg?palette=github-dark
+            dist/github-3d-metrics-light.svg?palette=github-light
+          
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
