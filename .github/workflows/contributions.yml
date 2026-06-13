@@ -16,7 +16,7 @@ jobs:
     
     steps:
       - name: generate 3d-contrib
-        uses: Platane/snk@v3
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
           github_user_name: div10000
           outputs: |
