@@ -50,19 +50,20 @@ Currently focused on crafting robust applications and integrating **AI/LLM featu
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=div10000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=div10000&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=div10000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=div10000&layout=compact&langs_count=8&theme=tokyonight&v=1"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=div10000&theme=tokyonight" alt="div10000" />
+  <img src="https://streak-stats.demolab.com/?user=div10000&theme=tokyonight&v=1" alt="div10000" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.deno.dev/?username=div10000&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" /> </div>
-
+<div align="center"> 
+  <img src="https://github-profile-trophy.deno.dev/?username=div10000&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&v=1" /> 
+</div>
 ---
 
 ## Contributions
